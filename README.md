@@ -7,7 +7,6 @@ The "House Price Prediction" project focuses on predicting housing prices using 
 The "House Price Prediction" project aims to develop a model that can accurately predict housing prices based on various features. This prediction task is of great significance in real estate and finance, enabling informed decision-making for buyers, sellers, and investors. By employing machine learning algorithms and a curated dataset, this project provides a powerful tool for estimating house prices.
 
 ## Key Features
-
 1. Data Collection and Processing: The project utilizes the "Housing" dataset, which can be directly downloaded from the Python library. The dataset contains features such as price,area,bedrooms,bathrooms,stories,mainroad,furnishingstatus. Using Pandas, the data is processed and transformed to ensure it is suitable for analysis.
 
 2.Data Visualization: The project employs data visualization techniques to gain insights into the dataset. Matplotlib and Seaborn are utilized to create visualizations such as Box plots, scatter plots, and correlation matrices. These visualizations provide a deeper understanding of the relationships between features and help identify trends and patterns.
