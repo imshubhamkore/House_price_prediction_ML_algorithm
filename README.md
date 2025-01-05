@@ -20,3 +20,13 @@ The "House Price Prediction" project aims to develop a model that can accurately
 ## Conclusion
 The "House Price Prediction" project provides a practical solution for estimating housing prices based on various features. By leveraging data collection, preprocessing, visualization, regression modeling, and model evaluation, this project offers a comprehensive approach to addressing the price prediction task. The project utilizes the "Housing" dataset from Scikit-learn, ensuring a reliable and widely accessible data source.
 
+## Model Results
+|index|MSE|R2 Score|
+|---|---|---|
+|Linear Regression|1523019469501\.2913|0\.6463350878895877|
+|Random Forest Regressor|1847298709634\.759|0\.5710332343954968|
+|Gradient Boost Regressor|1604564599715\.6082|0\.6273992489933706|
+|XGBoost|2083551444992\.0|0\.5161722898483276|
+|Support Vector regressor|4462190769765\.794|-0\.03617868189555318|
+|Lasso Reg|1523019381671\.6501|0\.6463351082847717|
+|Ridge Reg|1507286141893\.6584|0\.6499885710111001|
